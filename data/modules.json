@@ -7,7 +7,13 @@
   {
     "name": "incremental-development",
     "status": "in progress",
-    "board": 2
+    "board": 2,
+    "coaches": [
+      { 
+        "name": "Joel",
+        "userName": "JoeCamacho"
+      }
+    ]
   },
   {
     "name": "separation-of-concerns",
