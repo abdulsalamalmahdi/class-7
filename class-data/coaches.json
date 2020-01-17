@@ -3,8 +3,24 @@
     "name": "Joel",
     "userName": "JoeCamacho",
     "modules": [
-      0,
-      1
+      "working-with-code",
+      "incremental-development"
+    ]
+  },
+  {
+    "name": "Manju",
+    "userName": "prabhamanju",
+    "modules": [
+      "working-with-code",
+      "incremental-development"
+    ]
+  },
+  {
+    "name": "Kevin",
+    "userName": "KevinTss",
+    "modules": [
+      "working-with-code",
+      "incremental-development"
     ]
   }
 ]
